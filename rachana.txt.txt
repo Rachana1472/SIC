@@ -1,0 +1,1 @@
+Git is a distributed version control system (DVCS) designed to efficiently manage and track changes in codebases, whether for individual developers or collaborative teams. Its architecture is decentralized, meaning every developer has a complete copy of the repository, including its full history, enabling offline work and robust collaboration.
