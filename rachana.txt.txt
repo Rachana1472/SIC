@@ -3,3 +3,4 @@ Git is a distributed version control system (DVCS) designed to efficiently manag
 
 Git is a distributed version control system
 nabling offline work and robust collaboration.
+Its architecture is decentralized
