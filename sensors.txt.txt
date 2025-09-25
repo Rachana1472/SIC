@@ -1,2 +1,3 @@
 Sensor is used to convert one form energy to the other
 SensorSensorSensor
+Sensors is used 
